@@ -17,7 +17,7 @@ class Isps extends Migration
         Schema::create('blacklist_isps', function (Blueprint $table) {
             $table->increments('id');
             $table->text('isp');
-            $table->timestamps();
+            $table->timestamps(); 
         });
     }
 
