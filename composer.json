@@ -10,7 +10,7 @@
         "fideloper/proxy": "^4.0",
         "geoip2/geoip2": "^2.9",
         "laracasts/flash": "^3.0",
-        "laravel/framework": "5.6.*",
+        "laravel/framework": "5.8.*",
         "laravel/tinker": "^1.0",
         "ozdemirburak/json-csv": "^0.2.0",
         "yoeunes/toastr": "^1.2"
